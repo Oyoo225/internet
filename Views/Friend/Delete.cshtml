@@ -1,0 +1,56 @@
+@model FriendSQLiteMVCVSCode.Models.FriendViewModel
+@{
+    ViewData["Title"] = "Delete Friend";
+        var photoFilePath = TempData["PhotoFilePath"]?.ToString();
+    if (photoFilePath == "/images/")
+    {
+        photoFilePath = "/images/NoData.jpg";
+    }
+    var dateOfBirth = TempData["DateOfBirth"]?.ToString();
+    var regionOfBirth = TempData["RegionOfBirth"]?.ToString();
+    if (regionOfBirth == "" | regionOfBirth == null)
+    {
+        regionOfBirth = "Unknown";
+    }
+}
+<h1>Delete</h1>
+<h4>@ViewData["Title"]</h4>
+<h5>You are going to delete this record. Are you sure? If YES, please click at Delete button below.</h5>
+<form method="post" class="w-75 mx-auto">
+    <div class="mb-3">
+        <label for="Id" class="form-label">Id:</label>
+        <input type="text" class="form-control" id="Id" asp-for="Id" readonly />
+    </div>
+    <div class="mb-3">
+        <label for="Firstname" class="form-label">Firstname:</label>
+        <input type="text" class="form-control" id="Firstname" asp-for="Firstname" readonly />
+    </div>
+    <div class="mb-3">
+        <label for="Lastname" class="form-label">Lastname:</label>
+        <input type="text" class="form-control" id="Lastname" asp-for="Lastname" readonly />
+    </div>
+    <div class="mb-3">
+        <label for="Mobile" class="form-label">Mobile:</label>
+        <input type="text" class="form-control" id="Mobile" asp-for="Mobile" readonly />
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email:</label>
+        <input type="text" class="form-control" id="Email" asp-for="Email" readonly />
+    </div>
+        <div class="mb-3">
+        <label for="DateOfBirth" class="form-label">Date of Birth: @dateOfBirth</label>
+    </div>
+    <div class="mb-3">
+        <label for="RegionOfBirth" class="form-label">Region of Birth: @regionOfBirth</label><br />
+    </div>
+    <div class="mb-3">
+        <label for="PhotoFilename" class="form-label">Current Photo Filename:</label>
+        <input type="text" class="form-control" id="PhotoFilename" asp-for="PhotoFilename" readonly />
+        <img src="@photoFilePath" width="120" />
+    </div>
+    <div class="mb-3">
+        <input type="submit" class="btn btn-danger mx-auto d-inline" value="Delete" />
+        <input type="button" class="btn btn-primary mx-auto d-inline" value="Cancel" action="action"
+            onclick="window.location.href='../'" />
+    </div>
+</form>

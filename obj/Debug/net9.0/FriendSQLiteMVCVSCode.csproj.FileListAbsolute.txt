@@ -1,0 +1,434 @@
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/appsettings.Development.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/appsettings.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/FriendSQLiteMVCVSCode.staticwebassets.runtime.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/FriendSQLiteMVCVSCode.staticwebassets.endpoints.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/FriendSQLiteMVCVSCode.exe
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/FriendSQLiteMVCVSCode.deps.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/FriendSQLiteMVCVSCode.runtimeconfig.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/FriendSQLiteMVCVSCode.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/FriendSQLiteMVCVSCode.pdb
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Humanizer.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/Mono.TextTemplating.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/System.CodeDom.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/System.Composition.Convention.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/System.Composition.Hosting.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/System.Composition.Runtime.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/System.Composition.TypedParts.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.csproj.AssemblyReference.cache
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.GeneratedMSBuildEditorConfig.editorconfig
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.AssemblyInfoInputs.cache
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.AssemblyInfo.cs
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.csproj.CoreCompileInputs.cache
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.MvcApplicationPartsAssemblyInfo.cache
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.RazorAssemblyInfo.cache
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.RazorAssemblyInfo.cs
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/scopedcss/bundle/FriendSQLiteMVCVSCode.styles.css
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/scopedcss/projectbundle/FriendSQLiteMVCVSCode.bundle.scp.css
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/yjtvg2eb8l-b9sayid5wm.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/44sq5op2n1-61n19gt1b8.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/r774j3dgy5-xtxxf3hu2r.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/nr0l1ylq1x-bqjiyaj88i.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/gyw4xzxc9s-c2jlpeoesf.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/udslqitg10-erw9l3u2r3.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/eidu5iww14-aexeepp0ev.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/wbj54x9zl4-d7shbmvgxk.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/6dtnqa3ghb-ausgxo2sd3.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/74wftgt9we-k8d9w2qqmf.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/czfgesg2j5-cosvhxvwiu.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/mrv25jld12-ub07r2b239.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/wl23xcy0dv-fvhpjtyr6v.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/sttrwe1cp2-b7pk76d08c.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/kx58wcptw1-fsbi9cje9m.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/3xpso6qpvx-rzd6atqjts.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/duupz1z0sb-ee0r1s7dh0.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/nnk2l60l8w-dxx9fxp4il.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/l3x69vzjoe-jd9uben2k1.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/eviecgr5i6-khv3u5hwcm.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/uhocrzt49e-r4e9w2rdcm.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/3o3zwuzlva-lcd1t2u6c8.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/042d66xtst-c2oey78nd0.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/2547i41hrn-tdbxkamptv.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/6qxfu5nsya-j5mq2jizvt.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/sp32nxextb-06098lyss8.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/9r1kwla3lv-nvvlpmu67g.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/zj4pjt4xsy-s35ty4nyc5.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/xg7ba6wpuy-pj5nd1wqec.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/m1y2uv5d1f-46ein0sx1k.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/tlsd9otgse-v0zj4ognzu.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/v9v9adbqgg-37tfw0ft22.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/ca35fvt9g3-hrwsygsryq.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/4136k6qaik-pk9g2wxc8p.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/4l9mmkvjyv-ft3s53vfgj.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/gilycmb918-6cfz1n2cew.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/gsmsl43vol-6pdc2jztkx.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/lyyak6gq0g-493y06b0oq.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/6zlzuyvpx6-iovd86k7lj.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/eiepubcd27-vr1egmr9el.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/808wq4wort-kbrnm935zg.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/n6tfvd3fnh-jj8uyg4cgr.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/qssicmhe1a-y7v9cxd14o.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/5dmw1qsrc4-notf2xhcfb.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/mbasa9derl-h1s4sie4z3.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/2rnx52iuvw-63fj8s7r0e.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/lsngecja6l-0j3bgjxly4.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/g0ng14hke1-47otxtyo56.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/57b9eg5kg9-4v8eqarkd7.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/m4tmcn1hho-356vix0kms.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/2rvgi05pbh-83jwlth58m.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/uvpp46wn6m-mrlpezrjn3.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/s6w6ku8060-lzl9nlhx6b.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/cwuvha8nc0-ag7o75518u.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/n0v7q0zej1-x0q3zqp4vz.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/zrnlbbx6g8-0i3buxo5is.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/e91anw4gny-o1o13a6vjx.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/if8tq8f5hm-ttgo8qnofa.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/hydtmv4llt-2z0ns9nrw6.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/7r3i16hndq-muycvpuwrr.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/7j50p4upbg-87fc7y1x7t.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/cdfxua8nox-mlv21k5csn.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/30cqkxfckv-z0r11u0rbf.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/fl8zellmal-z0r11u0rbf.gz
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets.build.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets.development.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets/msbuild.FriendSQLiteMVCVSCode.Microsoft.AspNetCore.StaticWebAssets.props
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets/msbuild.FriendSQLiteMVCVSCode.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets/msbuild.build.FriendSQLiteMVCVSCode.props
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.FriendSQLiteMVCVSCode.props
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.FriendSQLiteMVCVSCode.props
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/staticwebassets.pack.json
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQ.617B6A14.Up2Date
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/refint/FriendSQLiteMVCVSCode.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.pdb
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/FriendSQLiteMVCVSCode.genruntimeconfig.cache
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/ref/FriendSQLiteMVCVSCode.dll
+D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/r660qidl9z-iccjf58w54.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/appsettings.Development.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/appsettings.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/FriendSQLiteMVCVSCode.staticwebassets.runtime.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/FriendSQLiteMVCVSCode.staticwebassets.endpoints.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/FriendSQLiteMVCVSCode
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/FriendSQLiteMVCVSCode.deps.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/FriendSQLiteMVCVSCode.runtimeconfig.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/FriendSQLiteMVCVSCode.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/FriendSQLiteMVCVSCode.pdb
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Humanizer.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/System.CodeDom.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/System.Text.Json.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.csproj.AssemblyReference.cache
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.AssemblyInfoInputs.cache
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.AssemblyInfo.cs
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.csproj.CoreCompileInputs.cache
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.MvcApplicationPartsAssemblyInfo.cache
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.RazorAssemblyInfo.cache
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.RazorAssemblyInfo.cs
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/scopedcss/bundle/FriendSQLiteMVCVSCode.styles.css
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/scopedcss/projectbundle/FriendSQLiteMVCVSCode.bundle.scp.css
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/yjtvg2eb8l-b9sayid5wm.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/44sq5op2n1-61n19gt1b8.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/r660qidl9z-iccjf58w54.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/r774j3dgy5-xtxxf3hu2r.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/nr0l1ylq1x-bqjiyaj88i.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/gyw4xzxc9s-c2jlpeoesf.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/udslqitg10-erw9l3u2r3.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/eidu5iww14-aexeepp0ev.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/wbj54x9zl4-d7shbmvgxk.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/6dtnqa3ghb-ausgxo2sd3.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/74wftgt9we-k8d9w2qqmf.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/czfgesg2j5-cosvhxvwiu.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/mrv25jld12-ub07r2b239.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/wl23xcy0dv-fvhpjtyr6v.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/sttrwe1cp2-b7pk76d08c.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/kx58wcptw1-fsbi9cje9m.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/3xpso6qpvx-rzd6atqjts.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/duupz1z0sb-ee0r1s7dh0.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/nnk2l60l8w-dxx9fxp4il.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/l3x69vzjoe-jd9uben2k1.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/eviecgr5i6-khv3u5hwcm.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/uhocrzt49e-r4e9w2rdcm.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/3o3zwuzlva-lcd1t2u6c8.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/042d66xtst-c2oey78nd0.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/2547i41hrn-tdbxkamptv.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/6qxfu5nsya-j5mq2jizvt.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/sp32nxextb-06098lyss8.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/9r1kwla3lv-nvvlpmu67g.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/zj4pjt4xsy-s35ty4nyc5.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/xg7ba6wpuy-pj5nd1wqec.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/m1y2uv5d1f-46ein0sx1k.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/tlsd9otgse-v0zj4ognzu.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/v9v9adbqgg-37tfw0ft22.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/ca35fvt9g3-hrwsygsryq.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/4136k6qaik-pk9g2wxc8p.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/4l9mmkvjyv-ft3s53vfgj.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/gilycmb918-6cfz1n2cew.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/gsmsl43vol-6pdc2jztkx.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/lyyak6gq0g-493y06b0oq.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/6zlzuyvpx6-iovd86k7lj.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/eiepubcd27-vr1egmr9el.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/808wq4wort-kbrnm935zg.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/n6tfvd3fnh-jj8uyg4cgr.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/qssicmhe1a-y7v9cxd14o.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/5dmw1qsrc4-notf2xhcfb.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/mbasa9derl-h1s4sie4z3.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/2rnx52iuvw-63fj8s7r0e.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/lsngecja6l-0j3bgjxly4.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/g0ng14hke1-47otxtyo56.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/57b9eg5kg9-4v8eqarkd7.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/m4tmcn1hho-356vix0kms.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/2rvgi05pbh-83jwlth58m.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/uvpp46wn6m-mrlpezrjn3.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/s6w6ku8060-lzl9nlhx6b.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/cwuvha8nc0-ag7o75518u.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/n0v7q0zej1-x0q3zqp4vz.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/zrnlbbx6g8-0i3buxo5is.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/e91anw4gny-o1o13a6vjx.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/if8tq8f5hm-ttgo8qnofa.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/hydtmv4llt-2z0ns9nrw6.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/7r3i16hndq-muycvpuwrr.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/7j50p4upbg-87fc7y1x7t.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/cdfxua8nox-mlv21k5csn.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/30cqkxfckv-hvphxmig0h.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/compressed/fl8zellmal-hvphxmig0h.gz
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets.build.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets.development.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets/msbuild.FriendSQLiteMVCVSCode.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets/msbuild.FriendSQLiteMVCVSCode.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets/msbuild.build.FriendSQLiteMVCVSCode.props
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.FriendSQLiteMVCVSCode.props
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.FriendSQLiteMVCVSCode.props
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQ.617B6A14.Up2Date
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/refint/FriendSQLiteMVCVSCode.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.pdb
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.genruntimeconfig.cache
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/ref/FriendSQLiteMVCVSCode.dll

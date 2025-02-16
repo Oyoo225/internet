@@ -1,0 +1,56 @@
+@model FriendSQLiteMVCVSCode.Models.FriendViewModel
+@{
+    ViewData["Title"] = "Add Friend";
+}
+<h1>Create</h1>
+<h4>@ViewData["Title"]</h4>
+<form enctype="multipart/form-data" method="post" asp-controller="Friend" asp-action="Create" class="w-75 mx-auto">
+    <div class="mb-3">
+        <label for="Firstname" class="form-label">Please enter Firstname:</label>
+        <input type="text" class="form-control" id="Firstname" asp-for="Firstname" />
+    </div>
+    <div class="mb-3">
+        <label for="Lastname" class="form-label">Please enter Lastname:</label>
+        <input type="text" class="form-control" id="Lastname" asp-for="Lastname" />
+    </div>
+    <div class="mb-3">
+        <label for="Mobile" class="form-label">Please enter Mobile:</label>
+        <input type="text" class="form-control" id="Mobile" asp-for="Mobile" />
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Please enter Email:</label>
+        <input type="text" class="form-control" id="Email" asp-for="Email" />
+    </div>
+    <div class="mb-3">
+        <label for="DateOfBirth" class="form-label">Please enter Date of Birth:</label>
+        <div class="col-sm-9">
+            <input asp-for="DateOfBirth" type="date" class="form-control" />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label for="RegionOfBirth" class="form-label">Please enter Region of Birth:</label>
+        <div class="col-sm-9">
+            <select class="form-select" asp-for="RegionOfBirth">
+                <option value="Unknown">Unknown</option>
+                <option value="Bangkok City">Bangkok City</option>
+                <option value="Central">Central</option>
+                <option value="East">East</option>
+                <option value="North">North</option>
+                <option value="Northeast">Northeast</option>
+                <option value="South">South</option>
+            </select>
+        </div>
+    </div>
+    <div class="mp-3">
+        <label for="Photo" class="form-label">Please enter Photo:</label>
+        <input type="file" class="form-control" name="PhotoFile" id="PhotoFileName" />
+    </div>
+    <div class="mb-3">
+        <label>&nbsp;&nbsp;&nbsp;</label>
+        <div class="col-sm-9">
+            <input type="submit" class="btn btn-info mx-auto d-inline" value="Add" />
+            <input type="button" class="btn btn-primary mx-auto d-inline" value="Cancel" action="action"
+                onclick="window.location.href='../Friend'" />
+        </div>
+    </div>
+</form>

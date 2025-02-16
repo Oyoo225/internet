@@ -1,0 +1,39 @@
+@model IEnumerable<FriendSQLiteMVCVSCode.Models.FriendViewModel>
+@{
+    ViewData["Title"] = "List Friends";
+}
+<h1>Index</h1>
+<h4>@ViewData["Title"]</h4>
+<a asp-controller="Friend" asp-action="Create" class="btn btn-primary float-end my-2">Add Friend</a>
+<table class="table">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <th>@Html.DisplayNameFor(model => model.Firstname)</th>
+        <th>@Html.DisplayNameFor(model => model.Lastname)</th>
+        <th>@Html.DisplayNameFor(model => model.Mobile)</th>
+        <th>@Html.DisplayNameFor(model => model.Email)</th>
+        <th>@Html.DisplayNameFor(model => model.DateOfBirth)</th>
+        <th>@Html.DisplayNameFor(model => model.RegionOfBirth)</th>
+        <th>@Html.DisplayNameFor(model => model.PhotoFilename)</th>
+        <th>[Action]</th>
+    </tr>
+    @foreach (var friend in Model)
+    {
+        <tr>
+            <td>@friend.Id</td>
+            <td>@friend.Firstname</td>
+            <td>@friend.Lastname</td>
+            <td>@friend.Mobile</td>
+            <td>@friend.Email</td>
+            <td>@friend.DateOfBirth</td>
+            <td>@friend.RegionOfBirth</td>
+            <td><img src="/images/@friend.PhotoFilename" width="75" /></td>
+            <td>
+                <a asp-controller="Friend" asp-action="Edit" asp-route-id="@friend.Id"
+                    class="btn btn-info text-white">Edit</a>
+                <a asp-controller="Friend" asp-action="Delete" asp-route-id="@friend.Id"
+                    class="btn btn-danger text-white">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
