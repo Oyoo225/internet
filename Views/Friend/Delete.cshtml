@@ -30,12 +30,8 @@
         <input type="text" class="form-control" id="Lastname" asp-for="Lastname" readonly />
     </div>
     <div class="mb-3">
-        <label for="Mobile" class="form-label">Mobile:</label>
-        <input type="text" class="form-control" id="Mobile" asp-for="Mobile" readonly />
-    </div>
-    <div class="mb-3">
-        <label for="Email" class="form-label">Email:</label>
-        <input type="text" class="form-control" id="Email" asp-for="Email" readonly />
+        <label for="Note" class="form-label">Note:</label>
+        <input type="text" class="form-control" id="Note" asp-for="Note" readonly />
     </div>
         <div class="mb-3">
         <label for="DateOfBirth" class="form-label">Date of Birth: @dateOfBirth</label>
@@ -47,6 +43,10 @@
         <label for="PhotoFilename" class="form-label">Current Photo Filename:</label>
         <input type="text" class="form-control" id="PhotoFilename" asp-for="PhotoFilename" readonly />
         <img src="@photoFilePath" width="120" />
+    </div>
+     <div class="mb-3">
+        <label for="Sign" class="form-label">Sign:</label>
+        <input type="text" class="form-control" id="Sign" asp-for="Sign" readonly />
     </div>
     <div class="mb-3">
         <input type="submit" class="btn btn-danger mx-auto d-inline" value="Delete" />

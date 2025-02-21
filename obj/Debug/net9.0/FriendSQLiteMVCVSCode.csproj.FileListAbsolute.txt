@@ -432,3 +432,4 @@ D:/workroom/000-RSU/2-2024/FriendSQLiteMVCVSCode/obj/Debug/net9.0/compressed/r66
 /Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.pdb
 /Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.genruntimeconfig.cache
 /Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/ref/FriendSQLiteMVCVSCode.dll
+/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/obj/Debug/net9.0/FriendSQLiteMVCVSCode.sourcelink.json

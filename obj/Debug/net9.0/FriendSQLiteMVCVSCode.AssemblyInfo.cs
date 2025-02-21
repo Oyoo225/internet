@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FriendSQLiteMVCVSCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f03d52143907cdd4e2055458d5e1eea83fb2f56b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FriendSQLiteMVCVSCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FriendSQLiteMVCVSCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

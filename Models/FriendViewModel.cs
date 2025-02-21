@@ -15,11 +15,10 @@ namespace FriendSQLiteMVCVSCode.Models {
         public string Firstname { get; set; } = "";
         [Column("Lastname")]
         public string Lastname { get; set; } = "";
-        [Column("Mobile")]
-        public string? Mobile { get; set; }
-        [Column("Email")]
-        [DisplayName("E-mail")]
-        public string? Email { get; set; }
+       
+        [Column("Note")]
+        [DisplayName("Note")]
+        public string? Note { get; set; }
         [Column("DateOfBirth")]
         [DisplayName("Date of Birth")]
         public string? DateOfBirth { get; set; }
@@ -29,5 +28,8 @@ namespace FriendSQLiteMVCVSCode.Models {
         [Column("PhotoFilename")]
         [DisplayName("Photo Filename")]
         public string? PhotoFilename { get; set; }
+        [Column("Sign")]
+        [DisplayName("Sign")]
+        public string? Sign { get; set; }
     }
 }

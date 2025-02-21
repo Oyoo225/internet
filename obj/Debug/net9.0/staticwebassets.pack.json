@@ -45,6 +45,30 @@
       "PackagePath": "staticwebassets/images/NoData.jpg"
     },
     {
+      "Id": "/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/wwwroot/images/aries.jpg",
+      "PackagePath": "staticwebassets/images/aries.jpg"
+    },
+    {
+      "Id": "/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/wwwroot/images/cancer.jpg",
+      "PackagePath": "staticwebassets/images/cancer.jpg"
+    },
+    {
+      "Id": "/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/wwwroot/images/gemini.jpg",
+      "PackagePath": "staticwebassets/images/gemini.jpg"
+    },
+    {
+      "Id": "/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/wwwroot/images/leo.jpg",
+      "PackagePath": "staticwebassets/images/leo.jpg"
+    },
+    {
+      "Id": "/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/wwwroot/images/taurus.jpg",
+      "PackagePath": "staticwebassets/images/taurus.jpg"
+    },
+    {
+      "Id": "/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/wwwroot/images/virgo.jpg",
+      "PackagePath": "staticwebassets/images/virgo.jpg"
+    },
+    {
       "Id": "/Users/kyawthiha/Downloads/FriendSQLiteMVCVSCode 2/wwwroot/js/custom.js",
       "PackagePath": "staticwebassets/js/custom.js"
     },
